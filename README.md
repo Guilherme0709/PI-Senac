@@ -44,7 +44,8 @@ O sistema contempla três tipos principais de usuários:
 - ![image](https://github.com/user-attachments/assets/c839f580-e02b-4f5b-8219-19aa7c62f7f8)
 
 - Simulação de "Land Bank"
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/14012aa8-4e49-4b64-8130-b065fb45488f)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
