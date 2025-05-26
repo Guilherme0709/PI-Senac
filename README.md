@@ -42,28 +42,30 @@ O sistema contempla três tipos principais de usuários:
 
 
 ## 📁 Estrutura de Pastas
-```text
-PI-Senac-main/
-├── assets/
-│   ├── images/              # Imagens utilizadas nas páginas
-│   └── styles/              # Estilos CSS das páginas
 
 ├── pages/
-│   ├── home.html
-│   ├── cadastro.html
-│   ├── cadastroConcluido.html
-│   ├── descriçãoProjeto.html
-│   ├── analise.html
-│   ├── landbank.html
-│   └── diretoria.html
-```
+│   ├── AnaliseTerreno;
+│   ├── AprovacaoPropostas;
+│   ├── CadastrarTerreno;
+│   ├── Dashboard;
+│   ├── ForgotPassword;
+│   ├── Index;
+│   ├── Login;
+│   ├── MeusTerrenos;
+│   ├── NotFound;
+│   ├── Perfil;
+│   ├── Register;
+│   └── TerrenoDetalhes;
+
+
+
 
 
 ## ▶️ Como Executar
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/lote-mais.git
+   git clone https://github.com/seu-usuario/PI-Senac.git
 
 2. Navegue até a pasta do projeto:
     ```bash
